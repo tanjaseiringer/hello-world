@@ -1,5 +1,5 @@
 # hello-world
-test repsitory
+test repository
 
 
 edit file 'hello-world' only for tests
